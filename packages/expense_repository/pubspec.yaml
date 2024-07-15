@@ -1,0 +1,13 @@
+name: expense_repository
+description: The Repo that handles expenses
+publish_to: 'none'
+version: 0.0.1
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+    
